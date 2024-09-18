@@ -1,0 +1,34 @@
+body {
+    background-color: burlywood;
+    color: aliceblue;
+}
+
+.choiceBtn{
+    line-height: 30px;
+    width: 150px;
+    background-color: royalblue;
+    color: lightblue;
+    border: white solid;
+    border-radius: 10px;
+    font-size: 20px;
+    font-weight: bold;
+    
+}
+.title {
+    text-align: center;
+    justify-content: center;
+}
+#gameDiv{
+    font-family: 'Brush Script MT', cursive;
+    padding: 10px;
+    background-color: burlywood;
+    text-align: center;
+
+}
+#playerText{
+    color: blue;
+}
+#computerText{
+    color: red;
+}
+
